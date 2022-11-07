@@ -1,0 +1,8 @@
+@media (max-width: 520px) {
+  .auth-nav {
+    display: block !important;
+  }
+  .logo-nav {
+    max-width: 30%;
+  }
+}
